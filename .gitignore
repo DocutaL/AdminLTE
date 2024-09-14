@@ -9,3 +9,12 @@
 ad.js
 TODO
 test.html
+
+__pycache__
+*.pyc
+*.pyd
+*.pyo
+.vscode
+.idea
+Thumbs.db
+.Ds_Store
